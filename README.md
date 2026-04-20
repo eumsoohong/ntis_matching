@@ -2,7 +2,7 @@
 
 This repository contains MSSQL scripts used in:
 
-> Eum, S. (2026). Assessing Funders’ Databases Against Bibliographic Sources: A Study of Interoperability, Metadata Quality, and Coverage Using South Korea’s National R&D Database. https://doi.org/10.31235/osf.io/aqfr5_v1
+> Eum, S. (2026). Assessing Funders’ Databases Against Bibliographic Sources: A Study of Interoperability, Metadata Quality, and Coverage Using South Korea’s National R&D Database. https://doi.org/10.31235/osf.io/aqfr5_v2
 
 ## Contents
 
