@@ -3,6 +3,7 @@
 
 --  1. [userdb_eums].[dbo].[ntis_record] : Bibliographic information of NTIS records
 --  Columns: ntis_id, doi, title, issn_p, issn_e, journal, year, volume, issue, beginpage, articleno
+--  Note: 'ntis_id' in this code is identical to the 'output_registration_id' in Figure C1.
 
 --  2. [userdb_eums].[dbo].[ntis_matching] : Table of NTIS records and corresponding WoS and OpenAlex documents
 --  Columns: ntis_id, wos, openalex, matched
