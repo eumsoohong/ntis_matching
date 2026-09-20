@@ -3,6 +3,7 @@
 
 --  1. [userdb_eums].[dbo].[ntis_matching] : Table of NTIS records and corresponding WoS and OpenAlex documents
 --  Columns: ntis_id, wos, openalex, matched
+--  Note: 'ntis_id' in this code is identical to the 'output_registration_id' in Figure C1.
 
 --- 2. #ntis_source_link : Master table of linked journals in WoS and OpenAlex
 --  Columns: source_id_wos, source_id_openalex
