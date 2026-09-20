@@ -3,6 +3,7 @@
 
 --  [userdb_eums].[dbo].[ntis_matching] : Table of NTIS records and corresponding WoS and OpenAlex documents
 --  Columns: ntis_id, wos, openalex
+--  Note: 'ntis_id' in this code is identical to the 'output_registration_id' in Figure C1.
 
 --  Attributes to be compared: DOI, first author, title, source, publication year, volume, issue, beginning page, and end page
 --  For details on the calculation of the matching score, also see: Martijn Visser, Nees Jan van Eck, Ludo Waltman; Large-scale comparison of bibliographic data sources: Scopus, Web of Science, Dimensions, Crossref, and Microsoft Academic. Quantitative Science Studies 2021; 2 (1): 20–41. doi: https://doi.org/10.1162/qss_a_00112
